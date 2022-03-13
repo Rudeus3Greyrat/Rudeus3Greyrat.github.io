@@ -1,0 +1,1 @@
+const t={key:"v-7c3b1a36",path:"/entry/",title:"\u5165\u53E3\u7BC7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647162811e3,contributors:[{name:"Greyrat",email:"3041084465@qq.com",commits:1}]},filePathRelative:"entry/index.md"};export{t as data};
